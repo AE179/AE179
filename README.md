@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hi there 👋
-I'm ae179, I love low-level programming, like operating systems, drivers and firmwares.  
-I also like machine learning :P
+I'm ae179, I love low-level programming, like operating systems, drivers and firmwares.
 
 ---
 
